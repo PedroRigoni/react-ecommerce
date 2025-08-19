@@ -71,3 +71,16 @@ export const NavLinkStyle = styled(NavLink)`
   text-decoration: none;
   color: inherit;
 `;
+
+export const AddToCart = styled.button`
+    height: 2.75rem;
+    
+    text-align: center;
+    border-radius: 8px;
+    border: 2px solid #e2e1e1;
+    background-color: transparent;
+
+    &:hover {
+        background-color: #7ed957;
+    }
+`

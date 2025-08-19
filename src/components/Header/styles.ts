@@ -100,6 +100,3 @@ export const IconsHeader = styled.div`
   }
 `
 
-export const MenuLateral = styled.div `
-
-`
